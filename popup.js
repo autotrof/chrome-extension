@@ -1,0 +1,1 @@
+document.write("Hey dude, let's talk");
